@@ -18,7 +18,7 @@ function App() {
           element={
             <div className="back">
               <div id="App">
-                <video autoPlay muted src={Video}></video>
+                <video autoPlay loop muted src={Video}></video>
                 <div id="front-part">
                   <Header />
                   <Content />

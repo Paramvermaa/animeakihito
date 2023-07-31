@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: gilroy;
+  src: url(./assets/Gilroy-Regular.ttf);
+}
+@font-face {
+  font-family: gilroy-bold;
+  src: url(./assets/Gilroy-Bold.ttf);
+}
 html,
 body {
   height: 100%;
