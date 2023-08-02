@@ -1,7 +1,7 @@
 import React from "react";
 import { FaLocationArrow, FaMobileAlt, FaEnvelope } from "react-icons/fa";
 import Payment from "../../assets/payments.png";
-import "./Footer.scss";
+import "./Footer.css";
 function Footer() {
   return (
     <footer className="footer">
